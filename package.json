@@ -1,0 +1,14 @@
+{
+  "name": "tiger-club",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Cassino mobile de brincadeira, com créditos fictícios.",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "test": "node --test",
+    "check": "node --check assets/app.js && node --check assets/engine.js && node --test"
+  },
+  "engines": { "node": ">=20" }
+}

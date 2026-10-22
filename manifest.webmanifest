@@ -1,0 +1,11 @@
+{
+  "name": "Tiger Club • Só vale a diversão",
+  "short_name": "Tiger Club",
+  "description": "Três jogos, créditos fictícios e diversão no seu celular.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#14111e",
+  "theme_color": "#14111e",
+  "icons": [{ "src": "/assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
